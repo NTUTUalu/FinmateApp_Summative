@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868059530233",
+    "project_id": "finmatecashapp",
+    "storage_bucket": "finmatecashapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868059530233:android:912ee0f80de5e649b8f328",
+        "android_client_info": {
+          "package_name": "com.example.finmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868059530233-v1hl3ld4obbpcoln8kigqfm5srdnnr0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmur9-30qJqWZMWha_h99jQxXgfIZQ8qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868059530233-v1hl3ld4obbpcoln8kigqfm5srdnnr0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
